@@ -29,8 +29,8 @@ To run these notebooks, you will need a Python environment with Jupyter Notebook
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone git@github.com:acd17sk/Deep-Learning-Projects.git
+    cd Deep-Learning-Projects
     ```
 2.  Install the required libraries. A `requirements.txt` file is recommended, but you can also install the core packages manually:
     ```bash
