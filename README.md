@@ -34,7 +34,7 @@ To run these notebooks, you will need a Python environment with Jupyter Notebook
     ```
 2.  Install the required libraries. A `requirements.txt` file is recommended, but you can also install the core packages manually:
     ```bash
-    pip install torch torchvision numpy matplotlib scikit-learn
+    pip install torch torchvision numpy matplotlib scikit-learn pandas
     ```
 
 ### Usage
